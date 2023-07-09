@@ -37,3 +37,18 @@ The front-end application communicates with the back-end API to create, read, up
 ![RegisterUser](https://github.com/rufanmirganiyev/springboot-react-mysql/assets/109354732/0f4905bc-f65c-47aa-8d9a-14eaed201a5f)
 
 ![EditUser](https://github.com/rufanmirganiyev/springboot-react-mysql/assets/109354732/076f74b9-7152-4393-851d-2eba62f67f95)
+
+##Test
+
+![getAllUsers](https://github.com/mirganiyevrufan/springboot-react-mysql/assets/113489022/f0249f69-c3d2-4e08-a16c-58679d3d6581)
+
+![getUserById](https://github.com/mirganiyevrufan/springboot-react-mysql/assets/113489022/9a25cefc-ec63-455d-858a-c8a3888cd2d9)
+
+![CreateUser](https://github.com/mirganiyevrufan/springboot-react-mysql/assets/113489022/37772669-19df-4e7d-855a-9c0bc4ca7a60)
+
+![UpdateUser](https://github.com/mirganiyevrufan/springboot-react-mysql/assets/113489022/938499c1-f84d-4421-8d6a-573712dbdea6)
+
+![image](https://github.com/mirganiyevrufan/springboot-react-mysql/assets/113489022/969a449d-7a29-4f30-86ff-23d5606b7345)
+
+
+
